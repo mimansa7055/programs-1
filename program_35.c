@@ -1,0 +1,1 @@
+//Write your own substring function in javascript.
